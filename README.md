@@ -7,4 +7,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
