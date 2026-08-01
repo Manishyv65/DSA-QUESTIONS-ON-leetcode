@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
