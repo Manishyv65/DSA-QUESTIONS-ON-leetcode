@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
