@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0941-valid-mountain-array](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -115,5 +118,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
