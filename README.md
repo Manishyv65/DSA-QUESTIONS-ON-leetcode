@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0169-majority-element) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
