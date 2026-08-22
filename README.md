@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0941-valid-mountain-array](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/1089-duplicate-zeros) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
