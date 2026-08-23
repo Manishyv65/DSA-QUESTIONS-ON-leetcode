@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Manishyv65/DSA-QUESTIONS-ON-leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
